@@ -51,6 +51,22 @@
             text-decoration: none;
             border-radius: 5px;
         }
+        .about {
+    text-align: center;
+    padding: 60px 20px;
+    background: #eeeeee;
+}
+
+.about h2 {
+    font-size: 32px;
+    margin-bottom: 15px;
+}
+
+.about p {
+    max-width: 700px;
+    margin: auto;
+    line-height: 1.6;
+}
     </style>
 </head>
 
@@ -74,6 +90,16 @@
     </p>
 
     <a href="#" class="button">Learn More</a>
+</section>
+
+<section class="about">
+    <h2>About ACC</h2>
+
+    <p>
+        Abuyog Community College provides quality education and
+        opportunities that help students develop their skills,
+        knowledge, and future careers.
+    </p>
 </section>
 
 </body>
